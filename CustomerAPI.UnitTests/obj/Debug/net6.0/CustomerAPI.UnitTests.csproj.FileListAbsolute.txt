@@ -16,6 +16,7 @@ C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\CustomerAPI.U
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\CustomerAPI.UnitTests.pdb
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Azure.Core.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Azure.Identity.dll
+C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Castle.Core.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
@@ -51,6 +52,7 @@ C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Microsoft.Tes
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\NSubstitute.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\NuGet.Frameworks.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -157,5 +159,3 @@ C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\obj\Debug\net6.0\refint\Custom
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\obj\Debug\net6.0\CustomerAPI.UnitTests.pdb
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\obj\Debug\net6.0\CustomerAPI.UnitTests.genruntimeconfig.cache
 C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\obj\Debug\net6.0\ref\CustomerAPI.UnitTests.dll
-C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\Castle.Core.dll
-C:\Sandeep\demo\CustomerAPI\CustomerAPI.UnitTests\bin\Debug\net6.0\NSubstitute.dll
